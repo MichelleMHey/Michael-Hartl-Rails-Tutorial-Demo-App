@@ -40,3 +40,4 @@ gem 'jquery-rails', '2.0.2'
 
 # To use debugger
 # gem 'debugger'
+	
